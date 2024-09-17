@@ -1,0 +1,2 @@
+# STASAK
+Sakkojärjestelmien standardi juomapeleihin
