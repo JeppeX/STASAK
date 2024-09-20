@@ -13,6 +13,8 @@ $$
 
 missä *C* on vakiokerroin (oletusarvoisesti 2), *v* on kilpailijan juoman alkoholipitoisuus tilavuusyksikköä kohden (oluelle: 4.7% / 4.7% = 1, eli termi katoaa), *a* on kilpailijan ikä, *h* on pituus ja *m* massa.
 
+Tapauksessa, jossa kilpailijalla on erivahvuisia juomia, tulee hänen valita sellainen alkoholipitoisuus *v*, jonka juotujen juomien keskiarvo ylittää tai on vähintäänkin samalla tasolla kaikilla kilpailun hetkillä. Esimerkiksi kilpailija voi valita tasoksi *v* juomien keskiarvon ja aloittaa juomisen vahvimmasta päästä. Tällöin juotujen juomien alkoholitason keskiarvo ei koskaan alita määritettyä tasoa.
+
 Muutokset vakiokertoimeen ilmoitetaan väliviivalla standardilyhenteessä. Esimerkiksi *C* = 1.5 ilmoitettaisiin `STASAK2-1.5`.
 
 ### Esimerkki
