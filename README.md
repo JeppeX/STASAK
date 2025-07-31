@@ -1,4 +1,4 @@
 # STASAK
 Sakkojärjestelmien standardi juomapeleihin
 
-STASAKin numero viittaa heurestisesti sakon kaavan kompleksisuuteen / muuttujien määrään.
+STASAKin numero viittaa heuristisesti sakon kaavan kompleksisuuteen / muuttujien määrään.
